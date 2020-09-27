@@ -31,5 +31,5 @@ jobs:
       with:
         app-name: 'webikea'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_8ecaa3e6223e40e49457cd2efcf1a452 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_c2ad630d717e438c84ffb80746562065 }}
         package: ${{env.DOTNET_ROOT}}/myapp 
