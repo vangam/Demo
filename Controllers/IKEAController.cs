@@ -24,6 +24,12 @@ namespace DemoAPI.Controllers{
                     Price=600
                 
                 }
+                new IKEA{
+                    ProductId=3,
+                    ProdName="Sofa",
+                    Price=10000
+                
+                }
             };
 
         }       
