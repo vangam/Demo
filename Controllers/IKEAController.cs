@@ -23,7 +23,7 @@ namespace DemoAPI.Controllers{
                     ProdName="Chair",
                     Price=600
                 
-                }
+                },
                 new IKEA{
                     ProductId=3,
                     ProdName="Sofa",
